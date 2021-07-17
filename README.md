@@ -1,6 +1,6 @@
 # mediawiki-ez-docker
 
-A simple mediawiki docker container that needs minimal effort to setup, and just works.
+A simple mediawiki docker container that needs minimal effort to setup, and just works. Runs mariadb and apache in the same container, and is made to require minimal effort to setup and backup.
 
 ## Usage
 1. Clone this repo `git clone git@github.com:pranavgade20/mediawiki-ez-docker.git`
